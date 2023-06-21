@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Rafael Puche Q. homepage
 description: Pagina con recursos de interes para Analisis de Datos de NGS
+github:
+  is_project_page: false
