@@ -1,3 +1,9 @@
+--
+layout: page
+title: "Teorico 1"
+permalink: https://rpucheq.github.io/NGS_data_analysis.github.io/teorico
+--
+
 # Indice Teorico 1
 
 Navegación en el sistema de archivos: Practica el uso de comandos como cd, ls, pwd y mkdir para navegar en el sistema de archivos y crear nuevas carpetas.
