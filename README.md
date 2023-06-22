@@ -19,3 +19,5 @@ Practica el uso de la redirección `(>, >>)` y las tuberías `|` para manipular 
 Usa comandos como `cat`, `less`, `head`, `tail`, `sort`, `uniq` y grep para ver y procesar archivos de texto.
 
 
+# Teorico 2 - Archivos FASTQ, Control de Calidad y Ensamblaje
+## Temario
