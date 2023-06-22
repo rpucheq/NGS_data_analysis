@@ -1,7 +1,7 @@
-# ANÁLISIS DE DATOS PARA SECUENCIACIÓN DE NUEVA GENERACIÓN
+# Análisis de Datos Genomicos para Secuenciación de Nueva Generación (NGS)
 ## Una aproximación genómica
 
-Material practico para el curso de postgrado. Prof. Rafael Puche | Junio 2023
+Material practico para el curso de postgrado. Prof. Rafael Puche Q. | Junio 2023
 
 # Teorico 1 - Linea de Comandos
 ## Temario
