@@ -6,6 +6,12 @@ Material practico para el curso de postgrado *"Técnicas en Biología Molecular"
 ## Archivos 
 Los archivos empleados en esta practica puede descargarlos desde la carpeta [**Genomes**](https://github.com/rpucheq/NGS_data_analysis/blob/main/Genomes/)
 
+## Github
+Para descargar estos archivos desde `Github` en tu terminal debes demplear el siguiente comando:
+```bash
+wget --no-check-certificate https://github.com/rpucheq/NGS_data_analysis/blob/main/Genomes/Lepto_venezuelensis_Bov1.fasta
+```
+
 # Practico 1 - Linea de Comandos
 ## Temario
 
