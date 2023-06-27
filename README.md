@@ -1,7 +1,7 @@
 # Análisis de Datos Genomicos para Secuenciación de Nueva Generación (NGS)
 ## Una aproximación genómica
 
-Material practico para el curso de postgrado. Prof. Rafael Puche Q. | Junio 2023
+Material practico para el curso de postgrado *"Técnicas en Biología Molecular"*, CMCBC - IVIC 2023. Prof. Rafael Puche Q. | Junio 2023
 
 ## Archivos 
 Los archivos empleados en esta practica puede descargarlos desde la carpeta [**Genomes**](https://github.com/rpucheq/NGS_data_analysis/blob/main/Genomes/)
