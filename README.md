@@ -3,6 +3,8 @@
 
 Material practico para el curso de postgrado. Prof. Rafael Puche Q. | Junio 2023
 
+## Archivos para la practica, puede descargarlos en el siguiente [enlace]()
+
 # Teorico 1 - Linea de Comandos
 ## Temario
 
