@@ -3,7 +3,8 @@
 
 Material practico para el curso de postgrado. Prof. Rafael Puche Q. | Junio 2023
 
-## Archivos para la practica, puede descargarlos desde la carpeta [`Genomes`](https://github.com/rpucheq/NGS_data_analysis/blob/main/Genomes/)
+## Archivos 
+Los archivos empleados en esta practica puede descargarlos desde la carpeta [**Genomes**](https://github.com/rpucheq/NGS_data_analysis/blob/main/Genomes/)
 
 # Teorico 1 - Linea de Comandos
 ## Temario
