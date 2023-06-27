@@ -19,7 +19,7 @@ Usa comandos como `cp`, `mv`, `rm` para copiar, mover, eliminar y crear nuevos a
 Practica el uso de la redirección `(>, >>)` y las tuberías `|` para manipular la entrada y salida de los comandos.
 
 ### 4. Procesamiento de texto: 
-Usa comandos como `cat`, `less`, `head`, `tail`, `sort`, `uniq` y grep para ver y procesar archivos de texto.
+Usa comandos como `cat`, `less`, `head`, `tail`, `sort`, `uniq` y `grep` para ver y procesar archivos de texto.
 
 
 # Practico 2 - Archivos FASTQ, Control de Calidad y Ensamblaje de Genomas
