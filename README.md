@@ -9,6 +9,8 @@ Los archivos empleados en esta practica puede descargarlos desde la carpeta [**G
 # Practico 1 - Linea de Comandos
 ## Temario
 
+## [Ejercicios](https://github.com/rpucheq/NGS_data_analysis/blob/main/Practicos/Practico_1.md)
+
 ### 1. Navegación en el sistema de archivos: 
 Practica el uso de comandos como `cd`, `ls`, `pwd` y `mkdir` para navegar en el sistema de archivos y crear nuevas carpetas.
 
