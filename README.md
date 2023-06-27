@@ -9,8 +9,6 @@ Los archivos empleados en esta practica puede descargarlos desde la carpeta [**G
 # Practico 1 - Linea de Comandos
 ## Temario
 
-## [Ejercicios](https://github.com/rpucheq/NGS_data_analysis/blob/main/Practicos/Practico_1.md)
-
 ### 1. Navegación en el sistema de archivos: 
 Practica el uso de comandos como `cd`, `ls`, `pwd` y `mkdir` para navegar en el sistema de archivos y crear nuevas carpetas.
 
@@ -22,6 +20,8 @@ Practica el uso de la redirección `(>, >>)` y las tuberías `|` para manipular 
 
 ### 4. Procesamiento de texto: 
 Usa comandos como `cat`, `less`, `head`, `tail`, `sort`, `uniq` y `grep` para ver y procesar archivos de texto.
+
+### [Ejercicios](https://github.com/rpucheq/NGS_data_analysis/blob/main/Practicos/Practico_1.md)
 
 
 # Practico 2 - Archivos FASTQ, Control de Calidad y Ensamblaje de Genomas
@@ -35,3 +35,5 @@ Evaluar la calidad de diversos archivos FASTQ usando la herramienta FASTQC
 
 ### 3. Ensamble de un genoma bacteriano *de novo*
 Emplear SPAdes como ensamblador *de novo* para un genoma problema
+
+### ### [Ejercicios](https://github.com/rpucheq/NGS_data_analysis/blob/main/Practicos/Practico_2.md)
