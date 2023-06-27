@@ -1,4 +1,4 @@
-# Ejercicio 1
+# Ejercicio 1 - Linea de Comandos
 ## Descargar el archivo desde la carpeta `Genomes`:
 1. Lborgpetersenii1.txt
 
