@@ -3,7 +3,7 @@
 1. Lborgpetersenii1.txt
 
 
-## Examina el contenido de: `Lborgpetersenii1.txt1`
+## Examina el contenido de: `Lborgpetersenii1.txt`
 Sin usar un editor de texto (con interfaz grafica) 
 1. ¿Cuántas líneas contienen?
 2. ¿Cuántos caracteres?
