@@ -1,7 +1,9 @@
 # Ejercicio 2 - Archivos FASTQ, Control de Calidad y Ensamblaje de Genomas
 ## 1. Evaluar Calidad del FASTQ
+### Descripción: 
 FASTQC es una herramienta para el control de calidad de datos de secuenciación. Para ejecutar FASTQC en Linux, puedes usar la siguiente línea de comando en la terminal:
 
+### Comando para correr SPAdes:
 ```bash 
 fastqc archivo.fastq
 ```
@@ -13,8 +15,8 @@ También puedes analizar múltiples archivos a la vez usando comodines. Por ejem
 ```
 fastqc *.fastq
 ```
-
 Esto ejecutará FASTQC en todos los archivos con extensión `.fastq` en el directorio actual.
+
 
 ## 2. Ensamblaje usando SPAdes v3.11.1
 ### Descripción:
@@ -26,7 +28,7 @@ SPAdes es capaz de manejar datos de secuenciación de diferentes tecnologías y 
 
 En resumen, SPAdes es una herramienta poderosa y versátil para el ensamblaje de genomas pequeños a partir de datos de secuenciación.
 
-### Comando para corres SPAdes:
+### Comando para correr SPAdes:
 ```bash
 spades.py --pe1-1 forward_reads.fastq --pe1-2 reverse_reads.fastq -o output_directory
 ```
