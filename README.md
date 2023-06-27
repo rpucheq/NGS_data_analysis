@@ -21,3 +21,12 @@ Usa comandos como `cat`, `less`, `head`, `tail`, `sort`, `uniq` y grep para ver 
 
 # Teorico 2 - Archivos FASTQ, Control de Calidad y Ensamblaje
 ## Temario
+
+### 1. Análisis de archivos FASTQ
+Conocer la estructura y contenido de un archivo FASTQ. Que informacion podemos obtener?.
+
+### 2. Control de Calidad de archivo FASTQ
+Evaluar la calidad de diversos archivos FASTQ usando la herramienta FASTQC
+
+### 3. Ensamble de un genoma bacteriano *de novo*
+Emplear SPAdes como ensamblador *de novo* para un genoma problema
