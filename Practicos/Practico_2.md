@@ -1,9 +1,13 @@
 # Ejercicio 2 - Archivos FASTQ, Control de Calidad y Ensamblaje de Genomas
 ## 1. Evaluar Calidad del FASTQ
 ### Descripción: 
-FASTQC es una herramienta para el control de calidad de datos de secuenciación. Para ejecutar FASTQC en Linux, puedes usar la siguiente línea de comando en la terminal:
+FastQC es una herramienta de control de calidad para datos de secuenciación de alto rendimiento. Proporciona una manera rápida y fácil de evaluar la calidad de tus datos de secuenciación antes de realizar análisis posteriores.
 
-### Comando para correr SPAdes:
+Ademas, genera un informe en formato HTML que incluye gráficos y estadísticas sobre la calidad de tus datos. El informe incluye información sobre la calidad de las bases, la distribución del contenido de nucleótidos, la presencia de adaptadores y contaminantes, y otros aspectos importantes de la calidad de los datos.
+
+Tambien es compatible con datos de secuenciación generados por diferentes tecnologías y puede analizar archivos en formato FASTQ, BAM y SAM. Es una herramienta útil para identificar problemas en tus datos de secuenciación y para asegurarte de que tus análisis posteriores se basen en datos de alta calidad.
+
+### Comando para correr **FastQC**:
 ```bash 
 fastqc archivo.fastq
 ```
