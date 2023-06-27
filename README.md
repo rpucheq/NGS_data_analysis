@@ -31,14 +31,14 @@ Usa comandos como `cat`, `less`, `head`, `tail`, `sort`, `uniq` y `grep` para ve
 
 
 # Practico 2 - Archivos FASTQ, Control de Calidad y Ensamblaje de Genomas
-## Temario
 
+## Archivos 
 ## Mega
 Para descargar estos archivos desde `Mega` en tu terminal debes demplear el siguiente comando:
 - [Forward](https://mega.nz/file/0opC1CKA#-4VaMGavon43Ky6nrmgs2vUugI3GP_f912mqtJN_xNA)
 - [Reverse](https://mega.nz/file/sgpm0R5a#xv1BPKiKvgBRS_gq5Z1Cn04UHtAYA3fr6ZaLujlpiNs)
 
-
+## Temario
 ### 1. Análisis de archivos FASTQ
 Conocer la estructura y contenido de un archivo FASTQ. Que informacion podemos obtener?.
 
