@@ -6,7 +6,7 @@ Material practico para el curso de postgrado *"Técnicas en Biología Molecular"
 ## Archivos 
 Los archivos empleados en esta practica puede descargarlos desde la carpeta [**Genomes**](https://github.com/rpucheq/NGS_data_analysis/blob/main/Genomes/)
 
-# Teorico 1 - Linea de Comandos
+# Practico 1 - Linea de Comandos
 ## Temario
 
 ### 1. Navegación en el sistema de archivos: 
@@ -22,7 +22,7 @@ Practica el uso de la redirección `(>, >>)` y las tuberías `|` para manipular 
 Usa comandos como `cat`, `less`, `head`, `tail`, `sort`, `uniq` y grep para ver y procesar archivos de texto.
 
 
-# Teorico 2 - Archivos FASTQ, Control de Calidad y Ensamblaje
+# Practico 2 - Archivos FASTQ, Control de Calidad y Ensamblaje de Genomas
 ## Temario
 
 ### 1. Análisis de archivos FASTQ
