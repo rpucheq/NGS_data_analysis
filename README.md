@@ -3,7 +3,7 @@
 
 Material practico para el curso de postgrado *"Técnicas en Biología Molecular"*, CMCBC - IVIC 2023. Prof. Rafael Puche Q. | Junio 2023
 
-## Archivos 
+## Archivos - Practico 1
 Los archivos empleados en esta practica puede descargarlos desde la carpeta [**Genomes**](https://github.com/rpucheq/NGS_data_analysis/blob/main/Genomes/)
 
 ### Github
@@ -32,7 +32,7 @@ Usa comandos como `cat`, `less`, `head`, `tail`, `sort`, `uniq` y `grep` para ve
 
 # Practico 2 - Archivos FASTQ, Control de Calidad y Ensamblaje de Genomas
 
-## Archivos 
+## Archivos - Practico 2
 ### Mega
 Para descargar estos archivos desde `Mega` en tu terminal haz click en los enlaces:
 - [Forward](https://mega.nz/file/0opC1CKA#-4VaMGavon43Ky6nrmgs2vUugI3GP_f912mqtJN_xNA)
