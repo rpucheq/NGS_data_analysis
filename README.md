@@ -6,10 +6,10 @@ Material practico para el curso de postgrado *"Técnicas en Biología Molecular"
 ## Archivos 
 Los archivos empleados en esta practica puede descargarlos desde la carpeta [**Genomes**](https://github.com/rpucheq/NGS_data_analysis/blob/main/Genomes/)
 
-## Mega
-Para descargar estos archivos desde `Mega` en tu terminal debes demplear el siguiente comando:
+## Github
+Para descargar estos archivos desde `Github` en tu terminal debes demplear el siguiente comando:
 ```bash
-wget --no-check-certificate https://mega.nz/file/0opC1CKA#-4VaMGavon43Ky6nrmgs2vUugI3GP_f912mqtJN_xNA
+wget --no-check-certificate https://github.com/rpucheq/NGS_data_analysis/tree/main/Genomes
 ```
 
 # Practico 1 - Linea de Comandos
@@ -32,9 +32,6 @@ Usa comandos como `cat`, `less`, `head`, `tail`, `sort`, `uniq` y `grep` para ve
 
 # Practico 2 - Archivos FASTQ, Control de Calidad y Ensamblaje de Genomas
 ## Temario
-
-## Archivos 
-Los archivos empleados en esta practica puede descargarlos desde la carpeta [**FASTQ**](https://github.com/rpucheq/NGS_data_analysis/tree/main/FASTQ)
 
 ## Mega
 Para descargar estos archivos desde `Mega` en tu terminal debes demplear el siguiente comando:
