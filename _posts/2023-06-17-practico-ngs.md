@@ -1,3 +1,8 @@
+layout: post
+title: "Archivos"
+date: 2023-06-27 hh:mm:ss -0000
+categories: Genomes
+
 # Contenido Teorico
 
 Navegación en el sistema de archivos: Practica el uso de comandos como cd, ls, pwd y mkdir para navegar en el sistema de archivos y crear nuevas carpetas.
