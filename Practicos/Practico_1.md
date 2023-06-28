@@ -3,10 +3,15 @@
 1. Lborgpetersenii1.txt
 
 
-## Examina el contenido de: `Lborgpetersenii1.txt`
-Sin usar un editor de texto (con interfaz grafica) 
-1. ¿Cuántas líneas contienen?
-2. ¿Cuántos caracteres?
-3. ¿Cuál es la primera línea de los archivos?
-4. ¿Cuáles son las 10 últimas?
-5. Puedes agregar esta informacion  a un nuevo archivo llamado `informacionLB.txt`
+## Examina el contenido de: `Lborgpetersenii1.txt` usando `less` o `more`, y emplea los comandos indicados a continuación: 
+
+## 1. `wc` nos permite:
+- ¿Cuántas líneas contienen?
+- ¿Cuántos caracteres?
+
+## 2. Usando `head` y `tail`
+- ¿Cuál es la primera línea de los archivos?
+- ¿Cuáles son las 10 últimas? Puedes usar `tail`
+
+## 3. Practica usando `>` o `>>` 
+- Agregar la informacion de los pasos 1 y 2 nuevo archivo llamado `informacionLB.txt`
