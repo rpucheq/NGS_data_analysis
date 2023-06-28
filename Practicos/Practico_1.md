@@ -1,4 +1,4 @@
-# Ejercicio 1 - Linea de Comandos (Flash mode)
+# Ejercicios - Linea de Comandos (Flash mode)
 
 ## Navegar por el sistema de archivos
 1. Imprime tu directorio de trabajo actual con el comando `pwd`.
