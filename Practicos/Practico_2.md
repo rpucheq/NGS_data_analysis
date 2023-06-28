@@ -42,3 +42,19 @@ Donde `forward_reads.fastq` y `reverse_reads.fastq` son tus archivos de lecturas
 SPAdes tiene muchas opciones y parámetros que puedes ajustar para optimizar el ensamblaje. Puedes consultar la [documentación de SPAdes](https://github.com/ablab/spades) para obtener más información sobre cómo usar el programa. 
 Sin usar un editor de texto (con interfaz grafica) 
 
+## 3. Evaluar calidad del ensamblaje usando QUAST
+### Descripcion:
+QUAST (Quality Assessment Tool) es una herramienta para evaluar la calidad del ensamblaje del genoma. Puede evaluar ensamblajes utilizando genomas de referencia, así como sin genomas de referencia. QUAST produce informes detallados que incluyen tablas y gráficos que muestran diferentes aspectos de los ensamblajes.
+
+QUAST es capaz de manejar múltiples ensamblajes a la vez, lo que lo hace útil para comparar diferentes ensamblajes. También incluye herramientas para visualizar los resultados y para generar estadísticas y métricas adicionales.
+
+En resumen, QUAST es una herramienta útil para evaluar la calidad del ensamblaje del genoma y para comparar diferentes ensamblajes.
+
+### Comando para correr QUAST:
+```bash
+quast assembly.fasta -o output_directory
+```
+Donde `assembly.fasta` es el archivo FASTA que contiene tu ensamblaje de genoma y `output_directory` es el directorio donde deseas guardar los resultados de la evaluación.
+
+### QUAST web
+Por razones tecnicas vamos a correr el programa a traves de una interfaz web: http://cab.cc.spbu.ru/quast/ solo tenemos que subir nuestro genoma ensamblado en formato `fasta`
